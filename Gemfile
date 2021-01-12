@@ -52,3 +52,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'faker'
 # provides seeding data
+
+gem 'simple_form'
+# requires installation of bootstrap library, used for forms
