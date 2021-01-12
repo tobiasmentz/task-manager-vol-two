@@ -54,4 +54,8 @@ gem 'faker'
 # provides seeding data
 
 gem 'simple_form'
-# requires installation of bootstrap library, used for forms
+# used for forms
+
+gem 'bootstrap', '~> 4.5.0'
+
+gem 'jquery-rails'
